@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RootkitLabFilter", "filter\RootkitLabFilter.vcxproj", "{A7B1A10D-037D-4D44-93E1-66BC12747B42}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RootkitLab", "app\RootkitLab.vcxproj", "{2C16CEB8-9489-4BC6-856A-A05CD35DB87E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7B1A10D-037D-4D44-93E1-66BC12747B42}.Debug|x64.ActiveCfg = Debug|x64
+		{A7B1A10D-037D-4D44-93E1-66BC12747B42}.Debug|x64.Build.0 = Debug|x64
+		{A7B1A10D-037D-4D44-93E1-66BC12747B42}.Release|x64.ActiveCfg = Release|x64
+		{A7B1A10D-037D-4D44-93E1-66BC12747B42}.Release|x64.Build.0 = Release|x64
+		{2C16CEB8-9489-4BC6-856A-A05CD35DB87E}.Debug|x64.ActiveCfg = Debug|x64
+		{2C16CEB8-9489-4BC6-856A-A05CD35DB87E}.Debug|x64.Build.0 = Debug|x64
+		{2C16CEB8-9489-4BC6-856A-A05CD35DB87E}.Release|x64.ActiveCfg = Release|x64
+		{2C16CEB8-9489-4BC6-856A-A05CD35DB87E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
