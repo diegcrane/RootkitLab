@@ -1,0 +1,10 @@
+.vs/
+out/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.pdb
+*.cer
+*.pfx
+FAILED.txt
